@@ -1,5 +1,5 @@
 new_user = input("Enter Username: ")
-insta_users = ['hannan1', 'abdullah2', 'khizer4', 'saad3', 'rumesa2', 'laiba4', 'rubaina1', 'danish4']
+insta_users = ['john1', 'elvis2', 'adam2', 'elon', 'david', 'neil', 'philips', 'Jonas']
 
 
 if (new_user in insta_users):
